@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Button type='primary' size='large'>hello</Button>
+          <Button type='primary' size='large'>hello world</Button>
         </a>
       </header>
     </div>
